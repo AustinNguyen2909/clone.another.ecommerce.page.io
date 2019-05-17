@@ -16,4 +16,15 @@
 ##### A news page with 2 section of the latest link and summary to the blog.
 ##### A section show co-operation partners.
 ##### A footer with infomation of the shop and other features.
+### The user can see demo product page link to the first products of the quick-choice section and the featured section :
+##### A nav similar to home page
+##### A section showing the product image and name with a **"HOME"** button that link to home page.
+##### A section with the product info :
+* Different pictures of the product with small and big size.
+* Information about the choices of the product's properties to choose.
+* A "Add to cart" button and link to other similar product with different features.
+* Share button to social networks.
+##### A section showing other similar products.
+##### A footer similar to the home page.
 ### The format of the page is responsive according to the screen size.
+### Visit the live version [_here_](https://clone-ecommerce-page-watchin.netlify.com/)
