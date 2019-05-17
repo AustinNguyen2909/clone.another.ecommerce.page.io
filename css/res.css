@@ -1,0 +1,323 @@
+@media screen and (max-width:1200px) {
+	.container {
+        width:940px;
+    }
+    .slideshow-container {
+        width:940px;
+    }
+    .intro {
+        width:940px;
+    }
+    .sale_off {
+        width:940px;
+    }
+    
+    /** quick **/
+    .quick_choice {
+        min-height:450px;
+    }
+    .quick-go-left {
+    margin-left:60px;
+    }
+    .watch-kind {
+        font-size:10px;
+    }
+    
+    /** collection **/
+    .collections {
+	min-height:880px;
+    }
+    .collect-go-left {
+    margin-left:60px;
+    }
+    
+    /** sale **/
+    .sale-h2{
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .sale-h1{
+        font-size:40px;
+        line-height: 70px;
+    }
+    .sale-p{
+        font-size:12px;
+        line-height: 18px;
+    }
+    
+    /** news **/
+    .news {
+        min-height:1000px;
+    }
+     .news-h1 {
+        font-size: 24px;
+        line-height: 38px;
+     }
+     
+     /** footer **/
+     .footer-right {
+        font-size:14px;
+        line-height:24px;
+        margin-top: 60px;
+     }
+     .footer-listing a {
+         font-size:12px;
+     }
+     .pay-img {
+         left:60px;
+    }
+}
+
+@media screen and (max-width:992px) {
+	.container {
+        width:720px;
+    }
+    .slideshow-container {
+        width:720px;
+    }
+    .intro {
+        width:720px;
+    }
+    .sale_off {
+        width:720px;
+    }
+    
+    /** menu **/
+    .search-place {
+    width:110px;
+    }
+    
+    /** quick **/
+    .quick_choice {
+        min-height:400px;
+    }
+    .quick-go-left {
+    margin-left:;
+    }
+    .watch-kind {
+        font-size:10px;
+    }
+    
+    /** collection **/
+    .collections {
+	min-height:2100px;
+    }
+    .collect-go-left {
+    margin-left:60px;
+    }
+    
+    /** sale **/
+    .sale_img {
+    top:15%;
+    right:0;
+    height:auto;
+    width:90%;
+    }
+    .sale-heading {
+        padding-top:50px;
+    }
+    .sale-h2{
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .sale-h1{
+        font-size:55px;
+        line-height: 75px;
+    }
+    .sale-p{
+        font-size:10px;
+        line-height: 16px;
+    }
+    .sale-cd {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    
+    /** news **/
+    .news {
+        min-height:2000px;
+    }
+     .news-h1 {
+        font-size: 24px;
+        line-height: 38px;
+     }
+     
+     /** footer **/
+     .footer-logo {
+         left:33%;
+     }
+     .footer-right {
+        font-size:11px;
+        line-height:20px;
+        margin-top: 60px;
+     }
+     .footer-text {
+        font-size: 12px;
+        line-height: 20px;
+     }
+     .footer-list {
+         padding-left: 40px;
+     }
+     .footer-listing a {
+         font-size:12px;
+         line-height:50px;
+     }
+     .fl-01 {
+         padding-left:25px;
+     }
+     .footer-divide-line {
+         top:220px;
+     }
+     .pay-img {
+         top:250px;
+         left:10px;
+    }
+    .footer-share {
+        font-size:24px;
+        padding:10px 20px 0 0;
+    }
+    
+    /** all **/
+    .over-992{
+        display:none;
+    }
+    .under-992 {
+        display:block;
+    }
+}
+
+@media screen and (max-width:767px) {
+	.container {
+        width:100%;
+    }
+    .slideshow-container {
+        width:100%;
+    }
+    .intro {
+        width:100%;
+    }
+    .sale_off {
+        width:100%;
+    }
+    
+    /** menu **/
+    .search-place {
+        width:80px;
+    }
+    .sidenav2 a {
+        padding: 40px 8px 8px 32px;
+        font-size: 15px;
+    }
+    
+    /** slider **/
+    .text_slide {
+        top:90px;
+    }
+    
+    /** quick **/
+    .quick_choice {
+        min-height:0;
+    }
+    .quick-go-left {
+    margin-left:;
+    }
+    .watch-kind {
+        font-size:10px;
+    }
+    .tab button {
+        font-size:12px;
+    }
+    .btn_middle {
+        width:400px;
+    }
+    
+    /** collection **/
+    .collections {
+	min-height:0;
+    }
+    .collect-go-left {
+    margin-left:60px;
+    }
+    
+    /** sale **/
+    .sale_img {
+    top:15%;
+    right:0;
+    height:auto;
+    width:90%;
+    }
+    .sale-heading {
+        padding-top:20px;
+    }
+    .sale-h2{
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .sale-h1{
+        font-size:34px;
+        line-height: 50px;
+    }
+    .sale-p{
+        font-size:10px;
+        line-height: 16px;
+    }
+    .sale-cd {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    
+    /** news **/
+    .news {
+        min-height:0;
+    }
+     .news-h1 {
+        font-size: 24px;
+        line-height: 38px;
+     }
+     .w-share {
+         display:none;
+     }
+     
+     /** footer **/
+     .footer-logo {
+         left:33%;
+     }
+     .footer-right {
+        font-size:11px;
+        line-height:20px;
+        margin-top: 60px;
+     }
+     .footer-text {
+        font-size: 12px;
+        line-height: 20px;
+     }
+     .footer-list {
+         padding-left: 40px;
+     }
+     .footer-listing a {
+         font-size:12px;
+         line-height:50px;
+     }
+     .fl-01 {
+         padding-left:0;
+     }
+     .footer-divide-line {
+         top:220px;
+     }
+     .pay-img {
+         top:250px;
+         left:10px;
+    }
+    .footer-share {
+        font-size:24px;
+        padding:10px 20px 0 0;
+    }
+    
+    /** all **/
+    .over-767 {
+        display:none;
+    }
+    .under-767 {
+        display:block;
+    }
+}
